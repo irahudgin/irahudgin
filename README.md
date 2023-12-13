@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @irahudgin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Node.js, javascript, react
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me irahudgin@gmail.com
 
